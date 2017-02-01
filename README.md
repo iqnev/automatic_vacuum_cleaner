@@ -1,3 +1,4 @@
 # automatic_vacuum_cleaner
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hMXYNivmUK0" frameborder="0" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=hMXYNivmUK0" target="_blank"><img src="https://img.youtube.com/vi/hMXYNivmUK0/1.jpg" 
+alt="Complementary filter" width="240" height="180" border="10" /></a>	
